@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802509476480",
+    "project_id": "newblood-86102",
+    "storage_bucket": "newblood-86102.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802509476480:android:869ea4570d2f49ced90c65",
+        "android_client_info": {
+          "package_name": "com.example.newblood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1nI_DsV7PmDDKlNwR3QoXuz6P4oaGsQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
